@@ -1,5 +1,5 @@
 import React from "react";
-import './homepage.style.scss';
+import "./homepage.style.scss";
 import Directory from "../../components/directory/directory.component";
 
 const HomePage = () => (
@@ -8,4 +8,4 @@ const HomePage = () => (
   </div>
 );
 
-export default HomePage
+export default HomePage;
